@@ -5,3 +5,6 @@ public class Lab001 {
         System.out.println("Hello World!");
     }
 }
+// keywords are always lowercase
+//keywords eg; package, public class/ public static void
+// main is method name not keyword..
